@@ -1,6 +1,4 @@
 streamlit
 pandas
 numpy
-SMOTE_XGBOOST.pkl
-preprocessor.pkl
-label_encoder.pkl
+scikit-learn
